@@ -1,7 +1,7 @@
 import numpy
 import matplotlib.pyplot as plt
 from scipy import fftpack, linalg
-from tabulate import tabulate
+
 
 class Transforms:
     def __init__(self, fftfunction, length):
